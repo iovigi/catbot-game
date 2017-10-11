@@ -1,2 +1,2 @@
-# This is cat bot
-It can play with you guess number and to say hello. :)
+# Cat bot
+I am cat bot and I want to play with you to guess number :)
